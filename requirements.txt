@@ -9,3 +9,4 @@ google-api-core
 google-auth
 google-generativeai
 torch
+sentence-transformers
