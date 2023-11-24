@@ -4,7 +4,7 @@ streamlit
 tiktoken
 faiss-cpu
 InstructorEmbedding
-google-ai-generativelanguage 0.3.3
-google-api-core              2.14.0
-google-auth                  2.23.4
-google-generativeai  
+google-ai-generativelanguage
+google-api-core
+google-auth
+google-generativeai
